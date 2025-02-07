@@ -8,7 +8,7 @@
 }
 
 .game {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin: 200px;
     padding: 150px;
     display: flex;
